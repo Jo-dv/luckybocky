@@ -4,6 +4,17 @@
 ## 📅 진행 기간
 **2024.12.16~2025.01.24(6weeks)**
 
+## 🏃‍♂️ 운영 기간
+**2025.01.24~현재**
+* **2025.01.24**
+  * 서비스 배포
+* **2025.01.25**
+  * 1차 UX 개선
+* **2025.01.26~01.28**
+  * 2차 UX 개선
+* **2025.02.14~현재**
+  * 리팩토링 및 기능 추가 진행 중
+
 ## ⚙ 기술 스택
 ### FE
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -14,6 +25,7 @@
 ### BE
 ![Spring%20Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=Spring%20Boot&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring%20Boot](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?&style=for-the-badge&logoColor=white)
 
 ### DB
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
